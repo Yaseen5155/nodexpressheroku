@@ -1,0 +1,16 @@
+{
+  "name": "nodexpress",
+  "version": "1.0.0",
+  "description": "node express",
+  "main": "index.js",
+  "scripts": {
+    //"test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node expressdemo1.js"
+  },
+  "author": "yaseen shaikh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "promise-mysql": "^5.0.3"
+  }
+}
